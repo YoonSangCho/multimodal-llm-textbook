@@ -1,5 +1,5 @@
 # multimodal-llm-textbook
-1. LLM Fundamentals  
+1. Multimodal Learning LLM Fundamentals  
 2. Transformer Architecture  
 3. Retrieval-Augmented Generation (RAG)  
 4. Fine-tuning (LoRA)  
